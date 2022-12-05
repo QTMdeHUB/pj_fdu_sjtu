@@ -9,7 +9,7 @@
 
 ### Instructions
 1. Put the data folder(data_fx) inside the root folder.
-2. Create a log folder inside the root folder.
+2. Create a log folder(para1) inside the root folder.
 3. python Main.py [-opt.parameter]
 
 ### Data Set
