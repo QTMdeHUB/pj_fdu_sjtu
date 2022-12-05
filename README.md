@@ -18,4 +18,4 @@
 3. To view the dataset, run: pd.read_pickle("filename")
 
 # pj_fdu_sjtu_without_qx
-The weather information is not considered in this version of model(pj_fdu_sjtu_without_qx), which preforms better for now. And we are working on the weather version.
+It's a indenpent version of model. The weather information is not considered in this version of model(pj_fdu_sjtu_without_qx), which preforms better for now.
