@@ -13,7 +13,7 @@
 3. python Main.py [-opt.parameter]
 
 ### Data Set
-1. train_one_1000.pkl: Training set for one town(totally 13 towns) with a lookback window 100000 seconds.
+1. train_one_1000.pkl: **Input training set.** Training set for one town(totally 13 towns) with a lookback window 100000 seconds.
 2. train.pkl: Training set for 13 towns, without lookbback window. **Don't use it as the inputs.**
 3. To view the dataset, run: pd.read_pickle("filename")
 
